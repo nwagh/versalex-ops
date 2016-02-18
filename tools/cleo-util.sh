@@ -1,4 +1,5 @@
 #!/bin/sh
+set -vx
 # usage:   githuburl "jthielens/versalex-ops" "service/cleo-service"
 # returns: the github URL for file in repo
 githuburl () {
