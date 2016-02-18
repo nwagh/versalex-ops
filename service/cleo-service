@@ -1,4 +1,5 @@
 #!/bin/sh
+set -vx
 # usage: sudo cleo-service install (service|path) [alias]
 #        sudo cleo-service remove  service
 #
